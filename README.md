@@ -6,12 +6,36 @@ markdown-test
 <li>Test</li>
 <li>Test
 
- | QUARTER\_START_DATE | Start Date | End Date   |
- |:-------------------:|:----------:|:----------:|
- | yyyy-01-01          | yyyy-01-01 | yyyy-03-31 |
- | yyyy-04-01          | yyyy-04-01 | yyyy-06-30 |
- | yyyy-07-01          | yyyy-07-01 | yyyy-09-30 |
- | yyyy-10-01          | yyyy-10-01 | yyyy-12-31 |
+<table>
+<thead><tr>
+<th align="center">QUARTER_START_DATE</th>
+<th align="center">Start Date</th>
+<th align="center">End Date</th>
+</tr></thead>
+<tbody>
+<tr>
+<td align="center">yyyy-01-01</td>
+<td align="center">yyyy-01-01</td>
+<td align="center">yyyy-03-31</td>
+</tr>
+<tr>
+<td align="center">yyyy-04-01</td>
+<td align="center">yyyy-04-01</td>
+<td align="center">yyyy-06-30</td>
+</tr>
+<tr>
+<td align="center">yyyy-07-01</td>
+<td align="center">yyyy-07-01</td>
+<td align="center">yyyy-09-30</td>
+</tr>
+<tr>
+<td align="center">yyyy-10-01</td>
+<td align="center">yyyy-10-01</td>
+<td align="center">yyyy-12-31</td>
+</tr>
+</tbody>
+</table>
+
 </li>
 </ul>
 
