@@ -3,9 +3,7 @@ markdown-test
 
 #### Postcondition
 * Test
-
-* How to remove the additional blank new line above?  
- Test
+*
 
  | QUARTER\_START_DATE | Start Date | End Date   |
  |:-------------------:|:----------:|:----------:|
